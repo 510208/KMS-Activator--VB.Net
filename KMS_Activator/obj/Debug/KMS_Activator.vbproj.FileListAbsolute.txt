@@ -75,3 +75,7 @@ C:\Users\acozzett\Desktop\Software_Engineering\KMS_Activator\KMS_Activator\obj\D
 C:\Users\acozzett\Desktop\Software_Engineering\KMS_Activator\KMS_Activator\obj\Debug\KMS_Activator.Form1.resources
 C:\Users\acozzett\Desktop\Software_Engineering\KMS_Activator\KMS_Activator\obj\Debug\KMS_Activator.Resources.resources
 C:\Users\acozzett\Desktop\Software_Engineering\KMS_Activator\KMS_Activator\obj\Debug\KMS_Activator.vbproj.GenerateResource.Cache
+C:\Users\acozzett\Documents\GitHub\KMS-Activator\KMS_Activator\bin\Debug\KMS_Activator.exe.config
+C:\Users\acozzett\Documents\GitHub\KMS-Activator\KMS_Activator\obj\Debug\KMS_Activator.exe
+C:\Users\acozzett\Documents\GitHub\KMS-Activator\KMS_Activator\obj\Debug\KMS_Activator.xml
+C:\Users\acozzett\Documents\GitHub\KMS-Activator\KMS_Activator\obj\Debug\KMS_Activator.pdb
